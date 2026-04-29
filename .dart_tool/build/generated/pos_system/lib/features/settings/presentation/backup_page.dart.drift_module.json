@@ -1,0 +1,12 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter/material.dart",
+    "package:flutter_riverpod/flutter_riverpod.dart",
+    "package:intl/intl.dart",
+    "package:pos_system/features/settings/application/backup_service.dart",
+    "package:pos_system/features/settings/application/data_tools_providers.dart",
+    "package:pos_system/features/settings/application/shop_settings_controller.dart",
+    "package:pos_system/features/settings/domain/shop_settings.dart"
+  ]
+}

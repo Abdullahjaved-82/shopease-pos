@@ -1,0 +1,8 @@
+{
+  "elements": {},
+  "imports": [
+    "package:drift/drift.dart",
+    "package:pos_system/core/database/app_database.dart",
+    "package:pos_system/features/invoices/domain/document_models.dart"
+  ]
+}

@@ -1,0 +1,10 @@
+^D:\POS_SYSTEM\BUILD\WINDOWS\X64\_DEPS\SQLITE3-SUBBUILD\CMAKEFILES\012B3A0819C9EDFE2F61AE97B731E393\GENERATE.STAMP.RULE
+setlocal
+D:\vs\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe -SD:/pos_system/build/windows/x64/_deps/sqlite3-subbuild -BD:/pos_system/build/windows/x64/_deps/sqlite3-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/pos_system/build/windows/x64/_deps/sqlite3-subbuild/sqlite3-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

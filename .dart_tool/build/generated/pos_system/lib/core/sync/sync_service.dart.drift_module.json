@@ -1,0 +1,15 @@
+{
+  "elements": {},
+  "imports": [
+    "package:drift/drift.dart",
+    "package:flutter/foundation.dart",
+    "package:pos_system/core/database/app_database.dart",
+    "package:pos_system/core/sync/peer_discovery_service.dart",
+    "package:pos_system/core/sync/sync_change.dart",
+    "package:pos_system/core/sync/sync_client.dart",
+    "package:pos_system/core/sync/sync_log_repository.dart",
+    "package:pos_system/core/sync/sync_peer.dart",
+    "package:pos_system/core/sync/sync_server.dart",
+    "package:pos_system/features/settings/domain/shop_settings.dart"
+  ]
+}

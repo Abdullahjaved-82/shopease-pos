@@ -1,0 +1,12 @@
+{
+  "elements": {},
+  "imports": [
+    "package:drift/drift.dart",
+    "package:riverpod_annotation/riverpod_annotation.dart",
+    "package:pos_system/core/database/app_database.dart",
+    "package:pos_system/core/providers/repositories.dart",
+    "package:pos_system/features/auth/application/auth_controller.dart",
+    "package:pos_system/core/repositories/loyalty_repository.dart",
+    "package:pos_system/features/settings/application/shop_settings_controller.dart"
+  ]
+}

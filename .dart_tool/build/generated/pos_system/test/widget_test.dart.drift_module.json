@@ -1,0 +1,9 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter/material.dart",
+    "package:flutter_test/flutter_test.dart",
+    "package:pos_system/app/app.dart",
+    "package:flutter_riverpod/flutter_riverpod.dart"
+  ]
+}

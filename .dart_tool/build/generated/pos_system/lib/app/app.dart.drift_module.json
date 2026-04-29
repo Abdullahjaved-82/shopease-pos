@@ -1,0 +1,15 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter/material.dart",
+    "package:flutter_riverpod/flutter_riverpod.dart",
+    "package:pos_system/core/router/app_router.dart",
+    "package:pos_system/core/theme/app_theme.dart",
+    "package:pos_system/features/invoices/application/invoice_overdue_notification_service.dart",
+    "package:pos_system/features/invoices/application/recurring_invoice_service.dart",
+    "package:pos_system/features/settings/application/app_prefs_notifier.dart",
+    "package:pos_system/features/settings/application/data_tools_providers.dart",
+    "package:pos_system/l10n/app_localizations.dart",
+    "package:flutter_localizations/flutter_localizations.dart"
+  ]
+}

@@ -1,0 +1,49 @@
+// GENERATED CODE - DO NOT MODIFY BY HAND
+
+part of 'overdue_invoices_provider.dart';
+
+// **************************************************************************
+// RiverpodGenerator
+// **************************************************************************
+
+String _$overdueInvoicesHash() => r'77d522058cc7fbe8d2279cc5795b76c99072d838';
+
+/// See also [overdueInvoices].
+@ProviderFor(overdueInvoices)
+final overdueInvoicesProvider =
+    AutoDisposeStreamProvider<List<InvoiceListEntry>>.internal(
+      overdueInvoices,
+      name: r'overdueInvoicesProvider',
+      debugGetCreateSourceHash: const bool.fromEnvironment('dart.vm.product')
+          ? null
+          : _$overdueInvoicesHash,
+      dependencies: null,
+      allTransitiveDependencies: null,
+    );
+
+@Deprecated('Will be removed in 3.0. Use Ref instead')
+// ignore: unused_element
+typedef OverdueInvoicesRef =
+    AutoDisposeStreamProviderRef<List<InvoiceListEntry>>;
+String _$overdueInvoiceSummaryHash() =>
+    r'f00bc00869eb932cf3a3015c7252defd892c8758';
+
+/// See also [overdueInvoiceSummary].
+@ProviderFor(overdueInvoiceSummary)
+final overdueInvoiceSummaryProvider =
+    AutoDisposeStreamProvider<OverdueInvoiceSummary>.internal(
+      overdueInvoiceSummary,
+      name: r'overdueInvoiceSummaryProvider',
+      debugGetCreateSourceHash: const bool.fromEnvironment('dart.vm.product')
+          ? null
+          : _$overdueInvoiceSummaryHash,
+      dependencies: null,
+      allTransitiveDependencies: null,
+    );
+
+@Deprecated('Will be removed in 3.0. Use Ref instead')
+// ignore: unused_element
+typedef OverdueInvoiceSummaryRef =
+    AutoDisposeStreamProviderRef<OverdueInvoiceSummary>;
+// ignore_for_file: type=lint
+// ignore_for_file: subtype_of_sealed_class, invalid_use_of_internal_member, invalid_use_of_visible_for_testing_member, deprecated_member_use_from_same_package

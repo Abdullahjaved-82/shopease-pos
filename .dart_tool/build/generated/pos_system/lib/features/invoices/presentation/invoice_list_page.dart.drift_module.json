@@ -1,0 +1,13 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter/material.dart",
+    "package:flutter_riverpod/flutter_riverpod.dart",
+    "package:go_router/go_router.dart",
+    "package:intl/intl.dart",
+    "package:pos_system/core/providers/repositories.dart",
+    "package:pos_system/core/repositories/invoice_repository.dart",
+    "package:pos_system/features/invoices/application/overdue_invoices_provider.dart",
+    "package:pos_system/features/invoices/domain/document_models.dart"
+  ]
+}

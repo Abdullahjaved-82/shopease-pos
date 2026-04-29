@@ -1,0 +1,1 @@
+ D:\\pos_system\\.dart_tool\\flutter_build\\5e8ed343c0e8e35fa4eb0ea25cc6bab9\\dart_build_result.json:  D:\\flutter\\bin\\cache\\dart-sdk\\version D:\\pos_system\\.dart_tool\\package_config.json D:\\pos_system\\pubspec.yaml d:\\pos_system\\.dart_tool\\package_config.json

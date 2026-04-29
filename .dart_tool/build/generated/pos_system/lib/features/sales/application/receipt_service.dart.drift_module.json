@@ -1,0 +1,12 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter/services.dart",
+    "package:intl/intl.dart",
+    "package:pdf/pdf.dart",
+    "package:pdf/widgets.dart",
+    "package:pos_system/core/database/app_database.dart",
+    "package:pos_system/features/settings/domain/shop_settings.dart",
+    "package:qr_flutter/qr_flutter.dart"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter/material.dart",
+    "package:flutter_riverpod/flutter_riverpod.dart",
+    "package:path_provider/path_provider.dart",
+    "package:printing/printing.dart",
+    "package:share_plus/share_plus.dart",
+    "package:pos_system/core/database/app_database.dart",
+    "package:pos_system/core/providers/repositories.dart",
+    "package:pos_system/features/auth/application/auth_controller.dart",
+    "package:pos_system/features/sales/application/receipt_service.dart",
+    "package:pos_system/features/settings/application/shop_settings_controller.dart",
+    "package:pos_system/features/shared/application/notification_service.dart"
+  ]
+}

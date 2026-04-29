@@ -1,0 +1,1 @@
+{"valid_import":true,"imports":[{"uri":"package:flutter_test/flutter_test.dart","transitive":false},{"uri":"package:pos_system/features/settings/application/shop_settings_controller.dart","transitive":false},{"uri":"package:riverpod/riverpod.dart","transitive":false},{"uri":"package:shared_preferences/shared_preferences.dart","transitive":false}],"elements":[]}

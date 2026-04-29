@@ -1,0 +1,1 @@
+ D:\\pos_system\\lib\\l10n\\app_localizations_en.dart D:\\pos_system\\lib\\l10n\\app_localizations_ur.dart D:\\pos_system\\lib\\l10n\\untranslated.json D:\\pos_system\\lib\\l10n\\app_localizations.dart:  D:\\pos_system\\l10n.yaml D:\\pos_system\\lib\\l10n\\app_en.arb D:\\pos_system\\lib\\l10n\\app_ur.arb

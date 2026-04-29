@@ -1,0 +1,11 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter/material.dart",
+    "package:flutter_riverpod/flutter_riverpod.dart",
+    "package:intl/intl.dart",
+    "package:pos_system/core/database/app_database.dart",
+    "package:pos_system/core/providers/repositories.dart",
+    "package:pos_system/core/repositories/shifts_repository.dart"
+  ]
+}

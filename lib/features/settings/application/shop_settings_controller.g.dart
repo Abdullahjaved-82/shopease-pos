@@ -1,0 +1,30 @@
+// GENERATED CODE - DO NOT MODIFY BY HAND
+
+part of 'shop_settings_controller.dart';
+
+// **************************************************************************
+// RiverpodGenerator
+// **************************************************************************
+
+String _$shopSettingsControllerHash() =>
+    r'1889afa13b287d17d8cb856fc46326d8b1ba8dd3';
+
+/// See also [ShopSettingsController].
+@ProviderFor(ShopSettingsController)
+final shopSettingsControllerProvider =
+    AutoDisposeAsyncNotifierProvider<
+      ShopSettingsController,
+      ShopSettings
+    >.internal(
+      ShopSettingsController.new,
+      name: r'shopSettingsControllerProvider',
+      debugGetCreateSourceHash: const bool.fromEnvironment('dart.vm.product')
+          ? null
+          : _$shopSettingsControllerHash,
+      dependencies: null,
+      allTransitiveDependencies: null,
+    );
+
+typedef _$ShopSettingsController = AutoDisposeAsyncNotifier<ShopSettings>;
+// ignore_for_file: type=lint
+// ignore_for_file: subtype_of_sealed_class, invalid_use_of_internal_member, invalid_use_of_visible_for_testing_member, deprecated_member_use_from_same_package

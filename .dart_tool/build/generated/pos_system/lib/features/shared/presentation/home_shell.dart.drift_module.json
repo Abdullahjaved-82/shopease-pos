@@ -1,0 +1,16 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter/material.dart",
+    "package:flutter_riverpod/flutter_riverpod.dart",
+    "package:go_router/go_router.dart",
+    "package:pos_system/core/providers/repositories.dart",
+    "package:pos_system/core/theme/app_theme.dart",
+    "package:pos_system/features/auth/application/auth_controller.dart",
+    "package:pos_system/features/auth/domain/user_role.dart",
+    "package:pos_system/features/inventory/application/low_stock_provider.dart",
+    "package:pos_system/features/invoices/application/overdue_invoices_provider.dart",
+    "package:pos_system/features/settings/application/shop_settings_controller.dart",
+    "package:pos_system/l10n/app_localizations.dart"
+  ]
+}

@@ -1,0 +1,1 @@
+{"valid_import":true,"imports":[{"uri":"package:riverpod_annotation/riverpod_annotation.dart","transitive":false},{"uri":"package:shared_preferences/shared_preferences.dart","transitive":false},{"uri":"package:pos_system/features/settings/domain/shop_settings.dart","transitive":false}],"elements":[]}

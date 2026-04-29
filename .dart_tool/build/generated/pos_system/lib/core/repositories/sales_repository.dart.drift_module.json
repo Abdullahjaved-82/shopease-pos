@@ -1,0 +1,6 @@
+{
+  "elements": {},
+  "imports": [
+    "package:pos_system/core/database/app_database.dart"
+  ]
+}

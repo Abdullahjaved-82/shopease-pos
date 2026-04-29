@@ -1,0 +1,9 @@
+{
+  "elements": {},
+  "imports": [
+    "package:drift/drift.dart",
+    "package:pos_system/core/database/app_database.dart",
+    "package:pos_system/core/repositories/repository_base.dart",
+    "package:pos_system/core/sync/sync_log_repository.dart"
+  ]
+}

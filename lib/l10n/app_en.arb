@@ -1,0 +1,14 @@
+{
+  "loginTitle": "Login to ShopEase POS",
+  "roleLabel": "Select role",
+  "admin": "Admin",
+  "cashier": "Cashier",
+  "pinLabel": "PIN",
+  "continueButton": "Continue",
+  "sales": "Sales",
+  "products": "Products",
+  "inventory": "Inventory",
+  "reports": "Reports",
+  "customers": "Customers"
+}
+

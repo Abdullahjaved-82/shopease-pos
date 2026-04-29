@@ -1,0 +1,10 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter/material.dart",
+    "package:flutter_riverpod/flutter_riverpod.dart",
+    "package:pos_system/core/providers/repositories.dart",
+    "package:pos_system/features/suppliers/presentation/supplier_detail_page.dart",
+    "package:pos_system/features/suppliers/presentation/supplier_form_page.dart"
+  ]
+}

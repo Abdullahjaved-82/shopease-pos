@@ -1,0 +1,10 @@
+^D:\POS_SYSTEM\BUILD\WINDOWS\X64\PDFIUM-DOWNLOAD\CMAKEFILES\BDAEEC78E15F4BDEBB959AD750F848D3\GENERATE.STAMP.RULE
+setlocal
+D:\vs\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe -SD:/pos_system/build/windows/x64/pdfium-download -BD:/pos_system/build/windows/x64/pdfium-download --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/pos_system/build/windows/x64/pdfium-download/pdfium-download.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,22 @@
+// **************************************************************************
+// RiverpodGenerator
+// **************************************************************************
+
+String _$appPrefsNotifierHash() => r'cb0dc61637910b0fce65485b1ceb1b7b6209c19d';
+
+/// See also [AppPrefsNotifier].
+@ProviderFor(AppPrefsNotifier)
+final appPrefsNotifierProvider =
+    AutoDisposeAsyncNotifierProvider<AppPrefsNotifier, AppPrefs>.internal(
+      AppPrefsNotifier.new,
+      name: r'appPrefsNotifierProvider',
+      debugGetCreateSourceHash: const bool.fromEnvironment('dart.vm.product')
+          ? null
+          : _$appPrefsNotifierHash,
+      dependencies: null,
+      allTransitiveDependencies: null,
+    );
+
+typedef _$AppPrefsNotifier = AutoDisposeAsyncNotifier<AppPrefs>;
+// ignore_for_file: type=lint
+// ignore_for_file: subtype_of_sealed_class, invalid_use_of_internal_member, invalid_use_of_visible_for_testing_member, deprecated_member_use_from_same_package

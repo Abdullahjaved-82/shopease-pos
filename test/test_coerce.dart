@@ -1,0 +1,1 @@
+class X<T> { X({T? init}) { print(init.runtimeType); } } void main() { X<double>(init: 1); }

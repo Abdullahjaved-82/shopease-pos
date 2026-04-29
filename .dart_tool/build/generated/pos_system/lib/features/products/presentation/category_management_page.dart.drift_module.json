@@ -1,0 +1,9 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter/material.dart",
+    "package:flutter_riverpod/flutter_riverpod.dart",
+    "package:pos_system/core/repositories/categories_repository.dart",
+    "package:pos_system/features/products/application/categories_notifier.dart"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "elements": {},
+  "imports": [
+    "package:intl/intl.dart",
+    "package:pos_system/l10n/app_localizations.dart"
+  ]
+}

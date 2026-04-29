@@ -1,0 +1,18 @@
+{
+  "elements": {},
+  "imports": [
+    "package:drift/drift.dart",
+    "package:flutter/material.dart",
+    "package:flutter_riverpod/flutter_riverpod.dart",
+    "package:go_router/go_router.dart",
+    "package:intl/intl.dart",
+    "package:pos_system/core/database/app_database.dart",
+    "package:pos_system/core/providers/repositories.dart",
+    "package:pos_system/features/invoices/application/currency_service.dart",
+    "package:pos_system/features/invoices/application/invoice_pdf_service.dart",
+    "package:pos_system/features/invoices/domain/document_models.dart",
+    "package:pos_system/features/settings/application/shop_settings_controller.dart",
+    "package:pos_system/features/settings/domain/shop_settings.dart",
+    "package:printing/printing.dart"
+  ]
+}

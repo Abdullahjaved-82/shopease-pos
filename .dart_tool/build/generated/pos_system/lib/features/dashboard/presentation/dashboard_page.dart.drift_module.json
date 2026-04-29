@@ -1,0 +1,13 @@
+{
+  "elements": {},
+  "imports": [
+    "package:fl_chart/fl_chart.dart",
+    "package:flutter/material.dart",
+    "package:flutter_riverpod/flutter_riverpod.dart",
+    "package:go_router/go_router.dart",
+    "package:intl/intl.dart",
+    "package:pos_system/features/dashboard/application/dashboard_providers.dart",
+    "package:pos_system/features/dashboard/presentation/widgets/shop_header_widget.dart",
+    "package:pos_system/features/invoices/application/overdue_invoices_provider.dart"
+  ]
+}

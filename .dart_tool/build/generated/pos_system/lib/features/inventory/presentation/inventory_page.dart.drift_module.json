@@ -1,0 +1,9 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter/material.dart",
+    "package:pos_system/features/inventory/presentation/stock_in_page.dart",
+    "package:pos_system/features/inventory/presentation/adjustment_page.dart",
+    "package:pos_system/features/inventory/presentation/movement_history_page.dart"
+  ]
+}

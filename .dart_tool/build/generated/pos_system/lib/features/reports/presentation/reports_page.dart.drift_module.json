@@ -1,0 +1,19 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter/material.dart",
+    "package:flutter/rendering.dart",
+    "package:flutter_riverpod/flutter_riverpod.dart",
+    "package:fl_chart/fl_chart.dart",
+    "package:intl/intl.dart",
+    "package:go_router/go_router.dart",
+    "package:path_provider/path_provider.dart",
+    "package:pdf/widgets.dart",
+    "package:pdf/pdf.dart",
+    "package:pos_system/core/providers/repositories.dart",
+    "package:pos_system/core/repositories/reports_repository.dart",
+    "package:pos_system/features/auth/application/auth_controller.dart",
+    "package:pos_system/features/auth/domain/user_role.dart",
+    "package:share_plus/share_plus.dart"
+  ]
+}

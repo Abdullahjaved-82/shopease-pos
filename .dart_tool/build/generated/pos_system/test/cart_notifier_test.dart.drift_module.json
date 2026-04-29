@@ -1,0 +1,9 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter_test/flutter_test.dart",
+    "package:pos_system/core/database/app_database.dart",
+    "package:pos_system/features/sales/application/cart_notifier.dart",
+    "package:riverpod/riverpod.dart"
+  ]
+}

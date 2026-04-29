@@ -1,0 +1,6 @@
+{
+  "elements": {},
+  "imports": [
+    "package:pos_system/core/sync/sync_log_repository.dart"
+  ]
+}

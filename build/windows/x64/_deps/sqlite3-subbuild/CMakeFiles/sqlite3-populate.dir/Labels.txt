@@ -1,0 +1,14 @@
+# Target labels
+ sqlite3-populate
+# Source files and their labels
+D:/pos_system/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/sqlite3-populate
+D:/pos_system/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/012b3a0819c9edfe2f61ae97b731e393/sqlite3-populate.rule
+D:/pos_system/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/41e7e366a6a499db1ee5ce9ce2b5dfa0/sqlite3-populate-complete.rule
+D:/pos_system/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/6d1b16695c29a6fa935f1d8490d2db45/sqlite3-populate-build.rule
+D:/pos_system/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/6d1b16695c29a6fa935f1d8490d2db45/sqlite3-populate-configure.rule
+D:/pos_system/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/6d1b16695c29a6fa935f1d8490d2db45/sqlite3-populate-download.rule
+D:/pos_system/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/6d1b16695c29a6fa935f1d8490d2db45/sqlite3-populate-install.rule
+D:/pos_system/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/6d1b16695c29a6fa935f1d8490d2db45/sqlite3-populate-mkdir.rule
+D:/pos_system/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/6d1b16695c29a6fa935f1d8490d2db45/sqlite3-populate-patch.rule
+D:/pos_system/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/6d1b16695c29a6fa935f1d8490d2db45/sqlite3-populate-test.rule
+D:/pos_system/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/6d1b16695c29a6fa935f1d8490d2db45/sqlite3-populate-update.rule

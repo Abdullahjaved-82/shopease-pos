@@ -1,0 +1,8 @@
+{
+  "elements": {},
+  "imports": [
+    "package:http/http.dart",
+    "package:pos_system/core/sync/sync_change.dart",
+    "package:pos_system/core/sync/sync_peer.dart"
+  ]
+}

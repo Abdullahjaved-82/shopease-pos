@@ -1,0 +1,8 @@
+{
+  "elements": {},
+  "imports": [
+    "package:riverpod_annotation/riverpod_annotation.dart",
+    "package:pos_system/core/providers/repositories.dart",
+    "package:pos_system/core/repositories/invoice_repository.dart"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter/material.dart",
+    "package:flutter_riverpod/flutter_riverpod.dart",
+    "package:google_fonts/google_fonts.dart",
+    "package:pos_system/features/settings/application/app_prefs_notifier.dart"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "elements": {},
+  "imports": [
+    "package:drift/drift.dart",
+    "package:flutter/material.dart",
+    "package:flutter_riverpod/flutter_riverpod.dart",
+    "package:flutter_test/flutter_test.dart",
+    "package:pos_system/core/providers/repositories.dart",
+    "package:pos_system/features/products/presentation/product_form_page.dart",
+    "package:pos_system/core/database/app_database.dart",
+    "package:pos_system/core/repositories/categories_repository.dart",
+    "package:pos_system/core/repositories/products_repository.dart",
+    "package:pos_system/core/sync/sync_log_repository.dart"
+  ]
+}

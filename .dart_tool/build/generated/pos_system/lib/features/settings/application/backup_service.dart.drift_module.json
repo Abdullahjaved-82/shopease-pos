@@ -1,0 +1,13 @@
+{
+  "elements": {},
+  "imports": [
+    "package:archive/archive_io.dart",
+    "package:extension_google_sign_in_as_googleapis_auth/extension_google_sign_in_as_googleapis_auth.dart",
+    "package:google_sign_in/google_sign_in.dart",
+    "package:googleapis/drive/v3.dart",
+    "package:path/path.dart",
+    "package:path_provider/path_provider.dart",
+    "package:shared_preferences/shared_preferences.dart",
+    "package:pos_system/features/settings/domain/shop_settings.dart"
+  ]
+}

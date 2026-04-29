@@ -1,0 +1,10 @@
+{
+  "elements": {},
+  "imports": [
+    "package:file_picker/file_picker.dart",
+    "package:flutter/material.dart",
+    "package:flutter_riverpod/flutter_riverpod.dart",
+    "package:pos_system/features/settings/application/data_tools_providers.dart",
+    "package:pos_system/features/settings/application/import_service.dart"
+  ]
+}

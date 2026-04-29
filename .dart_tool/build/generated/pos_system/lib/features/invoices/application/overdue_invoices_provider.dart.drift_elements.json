@@ -1,0 +1,1 @@
+{"valid_import":true,"imports":[{"uri":"package:riverpod_annotation/riverpod_annotation.dart","transitive":false},{"uri":"package:pos_system/core/providers/repositories.dart","transitive":false},{"uri":"package:pos_system/core/repositories/invoice_repository.dart","transitive":false}],"elements":[]}

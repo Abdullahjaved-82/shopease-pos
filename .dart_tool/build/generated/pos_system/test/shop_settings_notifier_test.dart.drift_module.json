@@ -1,0 +1,9 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter_test/flutter_test.dart",
+    "package:pos_system/features/settings/application/shop_settings_controller.dart",
+    "package:riverpod/riverpod.dart",
+    "package:shared_preferences/shared_preferences.dart"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter/material.dart",
+    "package:flutter/foundation.dart",
+    "package:flutter/services.dart",
+    "package:flutter_riverpod/flutter_riverpod.dart",
+    "package:pos_system/features/auth/application/auth_controller.dart",
+    "package:go_router/go_router.dart",
+    "package:pos_system/l10n/app_localizations.dart",
+    "package:pos_system/features/auth/domain/user_role.dart"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "elements": {},
+  "imports": [
+    "package:audioplayers/audioplayers.dart",
+    "package:flutter/material.dart",
+    "package:flutter_riverpod/flutter_riverpod.dart",
+    "package:go_router/go_router.dart",
+    "package:intl/intl.dart",
+    "package:pos_system/core/database/app_database.dart",
+    "package:pos_system/core/providers/repositories.dart",
+    "package:pos_system/core/repositories/customers_repository.dart",
+    "package:pos_system/core/repositories/products_repository.dart",
+    "package:pos_system/core/theme/app_theme.dart",
+    "package:pos_system/features/auth/application/auth_controller.dart",
+    "package:pos_system/features/auth/domain/user_role.dart",
+    "package:pos_system/features/sales/application/cart_notifier.dart",
+    "package:pos_system/features/sales/application/shift_guard.dart",
+    "package:pos_system/features/settings/application/shop_settings_controller.dart",
+    "package:pos_system/features/settings/domain/shop_settings.dart",
+    "package:shimmer/shimmer.dart"
+  ]
+}

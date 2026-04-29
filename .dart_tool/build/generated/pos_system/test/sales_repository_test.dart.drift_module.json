@@ -1,0 +1,10 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter_test/flutter_test.dart",
+    "package:drift/drift.dart",
+    "package:pos_system/core/database/app_database.dart",
+    "package:pos_system/core/repositories/sales_repository.dart",
+    "package:pos_system/core/repositories/users_repository.dart"
+  ]
+}

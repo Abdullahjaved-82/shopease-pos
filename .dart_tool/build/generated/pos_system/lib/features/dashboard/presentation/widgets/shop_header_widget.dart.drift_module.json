@@ -1,0 +1,11 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter/material.dart",
+    "package:flutter_riverpod/flutter_riverpod.dart",
+    "package:intl/intl.dart",
+    "package:pos_system/core/theme/app_theme.dart",
+    "package:pos_system/features/sales/application/shift_guard.dart",
+    "package:pos_system/features/settings/application/shop_settings_controller.dart"
+  ]
+}

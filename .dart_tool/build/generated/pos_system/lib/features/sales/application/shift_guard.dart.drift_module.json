@@ -1,0 +1,13 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter/material.dart",
+    "package:flutter_riverpod/flutter_riverpod.dart",
+    "package:pos_system/core/database/app_database.dart",
+    "package:pos_system/core/providers/repositories.dart",
+    "package:pos_system/features/auth/application/auth_controller.dart",
+    "package:pos_system/features/auth/application/auth_state.dart",
+    "package:pos_system/features/auth/domain/user_role.dart",
+    "package:pos_system/core/repositories/shifts_repository.dart"
+  ]
+}

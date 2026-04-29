@@ -1,0 +1,10 @@
+{
+  "elements": {},
+  "imports": [
+    "package:path/path.dart",
+    "package:shared_preferences/shared_preferences.dart",
+    "package:pos_system/features/settings/application/backup_service.dart",
+    "package:pos_system/features/settings/application/export_service.dart",
+    "package:pos_system/features/settings/domain/shop_settings.dart"
+  ]
+}

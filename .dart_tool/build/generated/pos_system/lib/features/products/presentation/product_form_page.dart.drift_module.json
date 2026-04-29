@@ -1,0 +1,13 @@
+{
+  "elements": {},
+  "imports": [
+    "package:file_picker/file_picker.dart",
+    "package:drift/drift.dart",
+    "package:flutter/material.dart",
+    "package:flutter_riverpod/flutter_riverpod.dart",
+    "package:go_router/go_router.dart",
+    "package:pos_system/core/database/app_database.dart",
+    "package:pos_system/core/providers/repositories.dart",
+    "package:pos_system/core/repositories/categories_repository.dart"
+  ]
+}

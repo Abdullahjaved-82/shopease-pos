@@ -1,0 +1,10 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter/material.dart",
+    "package:flutter_riverpod/flutter_riverpod.dart",
+    "package:intl/intl.dart",
+    "package:pos_system/core/providers/repositories.dart",
+    "package:pos_system/features/invoices/domain/document_models.dart"
+  ]
+}
